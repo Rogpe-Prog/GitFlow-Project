@@ -47,4 +47,10 @@
 
 ## Authors
 
-* **Rogpe** - *Initial work*
+* **Rogpe** - *Initial work*[
+
+## Flow used
+
+![flow](https://github.com/Rogpe-Prog/GitFlow-Project/blob/master/public/image/flow.png)
+
+
