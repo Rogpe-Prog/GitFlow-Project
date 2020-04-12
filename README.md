@@ -1,7 +1,6 @@
 # GitFlow-Project
 
-## Getting Started
-Playing with git-flow: merge, commits and fun...
+## Playing with git-flow: merge, commits and fun...
 
 ## Here step-by-step:
 
